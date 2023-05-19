@@ -16,7 +16,7 @@ export const HomePage = () => {
         <AppIcon />
         <h1>The best place to build, test, and discover front-end code.</h1>
         <p>
-          CodePen is a <strong>social development environment</strong> for front-end
+          Laroc is a <strong>social development environment</strong> for front-end
           designers and developers. Build and deploy a website, show off your work, build
           test cases to learn and debug, and find inspiration.
         </p>
@@ -39,8 +39,8 @@ export const HomePage = () => {
           icon={HomeCard2}
           title={'Learn & Discover'}
           description={`Want to upgrade your skills and get noticed? Participating in
-            CodePen Challenges is a great way to try something new. We
-            frequently feature these Pens on our homepage and across social
+            Laroc-Learning Challenges is a great way to try something new. We
+            frequently feature these codes on our homepage and across social
             media!`}
         />
         <HomeCard

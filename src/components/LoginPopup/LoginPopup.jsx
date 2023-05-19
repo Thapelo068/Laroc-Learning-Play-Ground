@@ -33,7 +33,7 @@ export const LoginPopup = () => {
 
         <div className={style.create}>
           <span>Need to create an account?</span>
-          <Link to="/signup"> Sign Up for CodePen</Link>
+          <Link to="/signup"> Sign Up for Laroc</Link>
         </div>
       </div>
     </>
